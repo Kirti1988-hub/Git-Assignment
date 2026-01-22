@@ -1,0 +1,2 @@
+Added notes file.
+This is the first text file from windows notepad
